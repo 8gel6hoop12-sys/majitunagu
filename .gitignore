@@ -1,0 +1,16 @@
+﻿node_modules/
+dist/
+out/
+docs/
+
+# logs
+npm-debug.log*
+yarn-*.log
+
+# editors
+.vscode/
+.idea/
+
+# env
+.env
+.env.*
